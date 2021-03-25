@@ -1,0 +1,6 @@
+Open terminal
+write code - npm init
+write code - npm install --save json-server (node modules creating)
+write in package.json (Scrtipt -"json:server": "json-server --watch fake.json")
+create file with name in previous title
+for running Server - npm run json:server

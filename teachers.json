@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "David Davidson",
+      "email": "ddavidso@bhmschools.org",
+      "position": "Social Studies Teacher",
+      "phone": "763-820-623",
+      "id": 1
+    },
+    {
+      "name": "Kim Young",
+      "email": "koung@bhmschools.org",
+      "position": "Greeter | Interim Student Services Secretary",
+      "phone": "763-820-586",
+      "id": 2
+    },
+    {
+      "name": "Courtney Bouman",
+      "email": "cbouman@bhmschools.org",
+      "position": "Accounts Payable Secretary",
+      "phone": "+994 (50) 605-55-55",
+      "id": 3
+    }
+  ]
+}
